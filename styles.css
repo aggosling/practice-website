@@ -159,3 +159,13 @@ body {
 .action-title {
     margin-bottom: 4px;
 }
+
+.footer {
+    background-color: #1F2937;
+    padding: 8px 64px;
+    text-align: center;
+}
+
+.footer-text {
+    color: #F9FAF8;
+}
